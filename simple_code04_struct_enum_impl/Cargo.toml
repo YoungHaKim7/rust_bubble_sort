@@ -1,5 +1,5 @@
 [package]
-name = "rust_bubble_sort"
+name = "simple_code04_struct_enum_impl"
 version = "0.1.0"
 edition = "2021"
 
